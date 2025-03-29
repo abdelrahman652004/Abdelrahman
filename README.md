@@ -18,7 +18,7 @@
 <h3>My Tools:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-mostafa-1901aa22a" target="_blank">
-     <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,powershell,bash,git,github,md,cpp,c,python,html,css,js,php,sql,postman,vim,vscode,pycharm,discord,stackoverflow,figma,gmail,mysql,burp,wireshark,nmap"/>
+     <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,powershell,bash,git,github,md,cpp,python,html,css,js,php,sql,postman,vim,vscode,pycharm,discord,stackoverflow,figma,gmail,mysql,burp,wireshark,nmap"/>
   </a>
 </p>
 
