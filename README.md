@@ -2,7 +2,7 @@
 **You are the visitor number:**
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:AbdulrahmanMostafa"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:AbdulrahmanMostafa?theme=booru-helltaker"></a>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="100"/>
 </p>
 
